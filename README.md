@@ -11,6 +11,7 @@ Script will create a new menu in the spreadsheet and add submenu
 
 The Spreadsheet stores name of Employee and their Email ids like.. The intent is to automatically create sheets for all employee
 
+![alt text](https://github.com/nikunjDev/Google-Spreadsheet-Script/blob/master/images/sheet1.png)
 
 ## 1. Add Employee one by one
 This option will copy template sheet(sheet2) and name the sheet to active employee name(selected one).
